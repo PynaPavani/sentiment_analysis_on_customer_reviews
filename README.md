@@ -23,9 +23,9 @@ To run this project locally, follow these steps:
    ```
 
 2. **Install Dependencies**:
-   ```bash
+   
   install independencies which are required like transformers, huggingface using pip.
-   ```
+
 
 3. **Run the Model**:
    ```bash
